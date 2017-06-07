@@ -1,0 +1,11 @@
+https://www.youtube.com/watch?v=s6IF9ZVohz8
+https://codigofacilito.com/cursos/flask-rest
+https://www.airpair.com/python/posts/django-flask-pyramid
+http://nightdeveloper.net/construir-flask-python/
+
+
+prueba0.py: Hola mundo en flask, estructura básica para montar y ejecutar una aplicación web
+prueba1.py: Creación y uso de rutas, función relacionada con cada ruta, uso de parámetros
+prueba2.py: Forma eficiente y rápida de usar parámetros, tipos de datos en parámetros
+prueba3.py: Uso de templates, definición de la carpeta templates, render de la página html a mostrar
+prueba4.py: Paso de parámetros al template, uso de parámetros y estructuras de decisión y repetición en el template

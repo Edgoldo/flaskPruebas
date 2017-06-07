@@ -1,0 +1,17 @@
+<html>
+	<head>
+		<title>Flask - Prueba de parametros</title>
+	</head>
+	<body>
+		<center><h4>Uso de Flask</h4></center>
+		<p>Primer parámetro: {{ dato1 }} </p>
+		{% if dato2 %}
+			<p> Frutas: 
+				{% for i in dato2 %}
+					{{ i }}:
+					{{ dato2[i] }},
+				{% endfor %}
+			</p>
+		{% endif %}
+	</body>
+</html>
